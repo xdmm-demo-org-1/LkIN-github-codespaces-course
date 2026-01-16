@@ -1,3 +1,5 @@
+[![Open in Github Codespaces](https://github.com/codespaces/badge.svg) ]{(https://codespaces.new/XavierMerinoMino/LkIN-github-codespaces-course)
+
 # Learning GitHub Codespaces
 This is the repository for the LinkedIn Learning course Learning GitHub Codespaces. The full course is available from [LinkedIn Learning][lil-course-url].
 
